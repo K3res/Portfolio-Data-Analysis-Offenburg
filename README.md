@@ -1,4 +1,4 @@
-# IU Data Analysis Project: Twitter Topic Extraction
+# IU Data Analysis Projekt: Themenextraktion auf Twitter
 **Kurs:** Data Analysis (DLBISIC02-01)  
 **Institution:** IU Internationale Hochschule
 
