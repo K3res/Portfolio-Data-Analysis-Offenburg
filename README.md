@@ -30,8 +30,3 @@ Dieses Projekt befasst sich mit der Extraktion und Analyse der am häufigsten di
 * `requirements.txt`: Liste der benötigten Python-Bibliotheken.
 * `main.py`: Hauptskript zur Durchführung der Analyse.
 
----
-
-## 📧 Kontakt
-**Name:** [Dein Vorname Nachname]  
-**Matrikelnummer:** [Deine Matrikelnummer]
