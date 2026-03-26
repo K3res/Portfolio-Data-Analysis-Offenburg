@@ -1,0 +1,16 @@
+Aktivste User (Top 10):
+Username
+pjohnson           6
+nbrown             5
+awilliams          5
+fsmith             4
+jessicawilliams    4
+vbrown             4
+nwhite             4
+smithjennifer      4
+amiller            4
+marksmith          4
+Name: count, dtype: int64
+
+Häufigste Hashtags (Top 10):
+[]

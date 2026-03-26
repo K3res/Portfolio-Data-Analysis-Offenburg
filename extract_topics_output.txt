@@ -1,0 +1,14 @@
+Topic #1:
+['central', 'high', 'task', 'quite', 'tend', 'admit', 'west', 'like', 'project', 'push']
+
+Topic #2:
+['draw', 'prepare', 'store', 'financial', 'career', 'score', 'value', 'center', 'family', 'collection']
+
+Topic #3:
+['boy', 'performance', 'political', 'color', 'edge', 'goal', 'result', 'low', 'court', 'test']
+
+Topic #4:
+['american', 'remember', 'teacher', 'modern', 'rate', 'play', 'friend', 'manage', 'allow', 'world']
+
+Topic #5:
+['soldier', 'let', 'evening', 'light', 'add', 'forget', 'machine', 'police', 'fall', 'audience']

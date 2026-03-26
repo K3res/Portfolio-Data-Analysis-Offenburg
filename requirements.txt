@@ -1,18 +1,9 @@
-# API-Anbindung 
-tweepy
-
-# Datenverarbeitung
+# Data Processing
 pandas
 numpy
 
 # Natural Language Processing (NLP)
-nltk
-spacy
+textblob
 
-# Topic Modeling und Analyse
-gensim
-scikit-learn
-
-# Visualisierung
+# Visualization
 matplotlib
-wordcloud
